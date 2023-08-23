@@ -9,7 +9,7 @@
 
 #define sensorGas 33
 
-String pessoa = "";
+String pessoa = "6565418057:AAHxQB6UwFnJ2cJ7bz9hzTFet3bsOssNi1s";
 
 const unsigned long BOT_MTBS = 1000;
 
